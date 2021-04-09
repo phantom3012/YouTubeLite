@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTubeLite</string>
+    <string name="image">image</string>
+    <string name="video_title">Video Title</string>
+</resources>
